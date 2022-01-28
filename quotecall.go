@@ -1,8 +1,12 @@
 package main
 import (
+"fmt"
 "github.com/Madspe/quote"
 )
 
-func main {
-	myquote.Hello()
+func main() {
+	funksjon()
+}
+func funksjon() {
+	fmt.Print(quote.XXXXX())
 }
