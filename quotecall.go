@@ -1,7 +1,7 @@
 package main
 import (
 "fmt"
-"github.com/Madspe/quote"
+"github.com/Madspe/Quote"
 )
 
 func main() {
