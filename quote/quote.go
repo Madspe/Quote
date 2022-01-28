@@ -6,7 +6,7 @@ import (
 "fmt"
 )
 
-func quote() {
+func Quote() {
 
 fmt.Println(quote.Hello())
 fmt.Println(quote.Glass())
