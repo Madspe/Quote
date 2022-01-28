@@ -1,4 +1,4 @@
-module github.com/Madspe/Quote
+module github.com/Madspe/quote
 
 go 1.17
 
