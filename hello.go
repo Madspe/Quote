@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
 
-func main() {
-    fmt.Println("Hello, World!")
+"hello.go/quote"
+)
+
+func main(){
+
+		myquote.M()
 }
+
