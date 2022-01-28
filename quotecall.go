@@ -8,5 +8,5 @@ func main() {
 	funksjon()
 }
 func funksjon() {
-	fmt.Print(quote.XXXXX())
+	fmt.Print(quote.quote())
 }
