@@ -1,4 +1,4 @@
-module minmodule.is105
+module Madspe/Quote
 
 go 1.17
 
