@@ -1,12 +1,9 @@
 package main
 import (
 "fmt"
-"github.com/Madspe/Quote"
+"github.com/Madspe/Quote/quote"
 )
 
-func main() {
-	funksjon()
-}
-func funksjon() {
-	fmt.Print(quote.Quote())
+func main()  {
+       fmt.Print(quote.TEST())
 }
